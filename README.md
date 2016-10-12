@@ -19,21 +19,15 @@ npm run build
 [demo运行](http://123.206.95.205:8888)
 
 界面预览：
-[图一](http://7xt1hs.com1.z0.glb.clouddn.com/my-weather1.png)
 ![图一](http://7xt1hs.com1.z0.glb.clouddn.com/my-weather1.png)
 
-[图二](http://7xt1hs.com1.z0.glb.clouddn.com/my-weather2.png)
 ![图二](http://7xt1hs.com1.z0.glb.clouddn.com/my-weather2.png)
 
-[图三](http://7xt1hs.com1.z0.glb.clouddn.com/my-weather3.png)
 ![图三](http://7xt1hs.com1.z0.glb.clouddn.com/my-weather3.png)
 
-[图四](http://7xt1hs.com1.z0.glb.clouddn.com/my-weather4.png)
 ![图四](http://7xt1hs.com1.z0.glb.clouddn.com/my-weather4.png)
 
-[图五](http://7xt1hs.com1.z0.glb.clouddn.com/my-weather5.png)
 ![图五](http://7xt1hs.com1.z0.glb.clouddn.com/my-weather5.png)
 
-[图六](http://7xt1hs.com1.z0.glb.clouddn.com/my-weather6.png)
 ![图六](http://7xt1hs.com1.z0.glb.clouddn.com/my-weather6.png)
-开发心得过段时间更新，可关注--https://hxiaomin.github.io
+<p>开发心得过段时间更新，可关注--https://hxiaomin.github.io</p>
