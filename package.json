@@ -4,13 +4,23 @@
   "description": "A Vue.js project",
   "author": "“Hxiaomin <“1245537792@qq.com>",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hxiaomin/weatherForecast.github.io"
+  },
+  "keywords": [
+    "vue2",
+    "vuex2",
+    "webpack",
+    "sui-mobile",
+    "echarts3",
+  ],
   "scripts": {
     "dev": "node build/dev-server.js",
     "build": "node build/build.js"
   },
   "dependencies": {
     "echarts": "^3.2.3",
-    "sui": "^1.0.0",
     "vue": "^2.0.1",
     "vue-resource": "^1.0.3",
     "vue-router": "^2.0.0",
