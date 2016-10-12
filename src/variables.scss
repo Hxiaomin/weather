@@ -1,0 +1,25 @@
+$bg: #f6f6ef;
+$gray: #828282;
+$fcolor: white;
+$mebg: #E5E8ED;
+
+@function size($size) {
+  @return ($size / 12) * 1rem;
+}
+
+@mixin data-dpr($field, $val) {
+  [data-dpr="1"] & {
+    #{$field}: $val;
+  }
+  [data-dpr="2"] & {
+    #{$field}: $val * 2;
+  }
+  [data-dpr="3"] & {
+    #{$field}: $val * 3;
+  }
+}
+
+@mixin font-size($size) {
+  @include data-dpr('font-size', $size);
+}
+
