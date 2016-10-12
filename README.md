@@ -15,10 +15,12 @@ npm run dev
 npm run build
 ```
 
-界面较粗糙，待完善，仅供学习参考，感谢接口来源：http://api.jirengu.com/weather.php?callback=getWeather
+<p>界面较粗糙，待完善，仅供学习参考，感谢接口来源：</p>
+<p>http://www.zhihu.com/people/jirengu-ruo-yu</p>
+<p>http://api.jirengu.com/weather.php?callback=getWeather</p>
 [demo运行](http://123.206.95.205:8888)
 
-界面预览：
+<p>界面预览：</p>
 ![图一](http://7xt1hs.com1.z0.glb.clouddn.com/my-weather1.png)
 
 ![图二](http://7xt1hs.com1.z0.glb.clouddn.com/my-weather2.png)
